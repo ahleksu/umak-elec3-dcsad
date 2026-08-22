@@ -7,7 +7,7 @@ Brief used (Lab Activity 1 only): N/A
 
 Attach 1 or 2 screenshots of you (and your group) actually doing the work in your terminal:
 
-![Screenshot](https://github.com/TrishchanJimenez/umak-elec3-dcsad/blob/seatwork-1/submissions/TrishchanJimenez/screenshots/seatwork-1.png)
+![Screenshot](https://github.com/TrishchanJimenez/umak-elec3-dcsad/blob/seatwork-1-TrishchanJimenez/submissions/seatwork-1/TrishchanJimenez/screenshots/seatwork-1.png)
 
 ## Evidence
 
