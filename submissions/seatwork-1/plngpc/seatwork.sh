@@ -34,3 +34,4 @@ pgrep bash
 ### Part 5 — Cleanup
 cd "$START_DIR"
 rm -r practice_cli
+# trigger CI
