@@ -105,7 +105,7 @@ The IAM policy (if you use Lambda), the security groups (if you use EC2), the bu
 
 Each slot includes 1 minute for the next group to share its screen.
 
-- Every student joins our Google Meet at 7:00 PM for roll call, with the camera on.
+- Every student joins our Google Meet at 3:00 PM for roll call, with the camera on.
 - Your display name is "Surname, First name".
 - Groups present in group-number order, Track A and Track B together. Your group number is your Lab 4 group number, the one you pick in the track form. The order is fixed, so your time slot is in the table below.
 - When the group before you starts, you are on deck. Have your screen ready.
@@ -116,20 +116,16 @@ Each slot includes 1 minute for the next group to share its screen.
 
 | Group | Time slot |
 | --- | --- |
-| 1 | 7:05 to 7:16 PM |
-| 2 | 7:16 to 7:27 PM |
-| 3 | 7:27 to 7:38 PM |
-| 4 | 7:38 to 7:49 PM |
-| 5 | 7:49 to 8:00 PM |
-| 6 | 8:00 to 8:11 PM |
-| 7 | 8:11 to 8:22 PM |
-| 8 | 8:22 to 8:33 PM |
-| 9 | 8:33 to 8:44 PM |
-| 10 | 8:44 to 8:55 PM |
+| 1 | 3:05 to 3:16 PM |
+| 2 | 3:16 to 3:27 PM |
+| 3 | 3:27 to 3:38 PM |
+| 4 | 3:38 to 3:49 PM |
+| 5 | 3:49 to 4:00 PM |
+| 6 | 4:00 to 4:11 PM |
+| 7 | 4:11 to 4:22 PM |
+| 8 | 4:22 to 4:33 PM |
 
-A section with fewer groups ends earlier. IV-CCSAD has 9 groups and IV-DCSAD has 8.
-
-IV-DCSAD presents on Wednesday, November 25, from 3:00 PM. Read 3:00 PM wherever this page says 7:00 PM, and each slot is 4 hours earlier: Group 1 at 3:05 PM, Group 8 until 4:33 PM.
+IV-DCSAD presents on Wednesday, November 25, from 3:00 PM. It moved from Monday, November 23, 7:00 PM.
 
 ## How you are scored
 
@@ -233,7 +229,7 @@ Do not use a calculator link. Make your own cost sheet, for example in Google Sh
 Yes. Tell me what your app is about and what problem it solves, in your plan and in your pitch.
 
 **Can we play a recorded pitch or demo video?**
-Yes. A video is optional, and it saves time on the night. It must fit in your 6-minute live part. Share your screen with sound, and test the sound before 7:00 PM. Keep your live system open, because I can ask you to show it after the video.
+Yes. A video is optional, and it saves time on the night. It must fit in your 6-minute live part. Share your screen with sound, and test the sound before 3:00 PM. Keep your live system open, because I can ask you to show it after the video.
 
 **Do we need slides?**
 No. Slides are optional. Whatever you show, make clear the problem your system solves, its target users, and how it runs on the cloud. Then show your live system or your build. I score your PDF before the night.
@@ -266,7 +262,7 @@ Check your spam folder first. Then message me.
 A make-up is only for a documented reason, for example a medical certificate. It is on Saturday, November 28, in your section's block. Message me as soon as you can.
 
 **My camera or my connection fails on the night.**
-Test both before 7:00 PM, and keep a phone ready to join. If you drop, rejoin within your slot. If you cannot, you answer at the end of the night if time allows. A member with the camera off gets 0 on the individual defense.
+Test both before 3:00 PM, and keep a phone ready to join. If you drop, rejoin within your slot. If you cannot, you answer at the end of the night if time allows. A member with the camera off gets 0 on the individual defense.
 
 **Which AWS account do we use, and how do we sign in?**
 Use your group's lab user from our labs, for example `dcsad-g07`, with the same sign-in link, user name, and password. Within an hour after your case roll, it gets the final exam access. If your group lost the password, message me. You can use your own AWS account instead. Track A uses your own cloud provider.
